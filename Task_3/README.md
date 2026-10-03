@@ -197,5 +197,5 @@ and highlights areas for further product, checkout, category, and
 brand-level investigation.
 
 ## Author
-
+Chidananda M
 **E-Commerce Funnel Analysis Project**
