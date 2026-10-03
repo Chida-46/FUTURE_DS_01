@@ -198,4 +198,3 @@ brand-level investigation.
 
 ## Author
 Chidananda M
-**E-Commerce Funnel Analysis Project**
